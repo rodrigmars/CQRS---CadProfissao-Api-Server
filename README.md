@@ -1,10 +1,8 @@
 # CQRS---CadProfissao-Api-Server
 
+* CQRS - CadProfissao Api Server
 
-================================
-CQRS - CadProfissao Api Server
-
-Manifesto - Arquitetura ambrião em CQRS
+* Manifesto - Arquitetura ambrião em CQRS
 
 Projeto desenvolvendo para análise de estrutra e avaliação de padrões adotodas 
 na arquitetura DDD.
