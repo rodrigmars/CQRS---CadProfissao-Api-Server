@@ -4,9 +4,6 @@
 
 * Manifesto - Arquitetura ambrião em CQRS
 
-Projeto desenvolvendo para análise de estrutra e avaliação de padrões adotodas 
-na arquitetura DDD.
-
 Estrutura:
 
 	└───src
